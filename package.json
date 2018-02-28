@@ -6,7 +6,7 @@
   "author": "Cecile Muller",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --mode production"
   },
   "devDependencies": {
     "html-webpack-plugin": "webpack-contrib/html-webpack-plugin",
