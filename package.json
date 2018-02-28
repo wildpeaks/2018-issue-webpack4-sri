@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "example",
+  "version": "0.0.1",
+  "description": "Example for a Github Issue",
+  "author": "Cecile Muller",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "webpack-contrib/html-webpack-plugin",
+    "webpack": "4.0.1",
+    "webpack-cli": "2.0.9",
+    "webpack-subresource-integrity": "1.1.0-rc.1"
+  }
+}
