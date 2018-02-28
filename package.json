@@ -12,6 +12,6 @@
     "html-webpack-plugin": "webpack-contrib/html-webpack-plugin",
     "webpack": "4.0.1",
     "webpack-cli": "2.0.9",
-    "webpack-subresource-integrity": "1.1.0-rc.1"
+    "webpack-subresource-integrity": "1.1.0-rc.2"
   }
 }
